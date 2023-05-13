@@ -1,0 +1,17 @@
+{
+  "name": "deneme",
+  "version": "1.0.0",
+  "description": "barış",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "barış",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^5.8.1"
+  },
+  "engines":{"node":"16.6.1"}
+}
